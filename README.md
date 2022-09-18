@@ -4,6 +4,12 @@
 This application will allow people to share their travel experience to a community of other travellers using this application.
 <h3/>
 <ul>
- <h5>Browse travel experience of other people
- </h5>
+ <li>Browse travel experience of other people
+ </li>
+  <li>
+   Add their own experience
+ </li>
+   <li>
+   Can add multiple factors about an experience
+ </li>
 </ul>
