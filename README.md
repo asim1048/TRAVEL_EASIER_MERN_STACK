@@ -16,7 +16,7 @@ This application will allow people to share their travel experience to a communi
      <li>City</li>
      <li>Nearly Places</li>
      <li>Cost</li>
-      <li>Security Status</li>
+     <li>Security Status</li>
      <li>Suggestion</li>
     </ol/>
  </li>
