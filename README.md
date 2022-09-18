@@ -13,12 +13,11 @@ This application will allow people to share their travel experience to a communi
    Can add multiple factors about an experience
     <ol>
      <li>Location Name</li>
-      <li>City</li>
-      <li>Nearly Places</li>
-      <li>Cost</li>
-      <li>Security Status</li>
-      <li>Security Status</li>
-      <li>Suggestion</li>
+     <li>City</li>
+     <li>Nearly Places</li>
+     <li>Cost</li
+     <li>Security Status</li>
+     <li>Suggestion</li>
     </ol/>
  </li>
 </ul>
