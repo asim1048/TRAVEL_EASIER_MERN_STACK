@@ -1,9 +1,9 @@
 <h1 align="center">Travel Easier</h1>
 <h1>Intoduction</h1>
-<h5>
+<h3>
 This application will allow people to share their travel experience to a community of other travellers using this application.
-<h5/>
+<h3/>
 <ul>
- <li>Browse travel experience of other people
- </li>
+ <h5>Browse travel experience of other people
+ </h5>
 </ul>
