@@ -18,7 +18,7 @@ This application will allow people to share their travel experience to a communi
       <li>Cost</li>
       <li>Security Status</li>
       <li>Security Status</li>
-      <li>Suggestionli>
+      <li>Suggestion</li>
     </ol/>
  </li>
 </ul>
